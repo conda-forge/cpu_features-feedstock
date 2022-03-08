@@ -1,6 +1,6 @@
 {% set name = "cpu_features" %}
-{% set version = "0.4.1" %}
-{% set sha256 = "b7b6b27f759410f73f15f935ae646f30c9c6742731dc354416399677bd418156" %}
+{% set version = "0.7.0" %}
+{% set sha256 = "df80d9439abf741c7d2fdcdfd2d26528b136e6c52976be8bd0cd5e45a27262c0" %}
 
 package:
   name: {{ name|lower }}
@@ -38,7 +38,7 @@ about:
   license: Apache 2.0
   license_family: Apache
   license_file: LICENSE
-  summary: 'A cross platform C99 library to get cpu features at runtime'
+  summary: A cross platform C99 library to get cpu features at runtime
   dev_url: https://github.com/google/cpu_features
 
 extra:
