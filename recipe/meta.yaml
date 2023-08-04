@@ -35,7 +35,7 @@ test:
 
 about:
   home: https://github.com/google/cpu_features
-  license: Apache 2.0
+  license: Apache-2.0
   license_family: Apache
   license_file: LICENSE
   summary: A cross platform C99 library to get cpu features at runtime
