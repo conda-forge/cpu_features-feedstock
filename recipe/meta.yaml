@@ -1,6 +1,6 @@
 {% set name = "cpu_features" %}
 {% set version = "0.8.0" %}
-{% set sha256 = "a3fc6a08ebbf40c538456d6a20ab294658bcebc8d0918457f33cb86f868f16a2" %}
+{% set sha256 = "7021729f2db97aa34f218d12727314f23e8b11eaa2d5a907e8426bcb41d7eaac" %}
 
 package:
   name: {{ name|lower }}
