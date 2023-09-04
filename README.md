@@ -171,6 +171,6 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
-* [@anton-malakhov](https://github.com/anton-malakhov/)
 * [@aregm](https://github.com/aregm/)
+* [@mr-c](https://github.com/mr-c/)
 
