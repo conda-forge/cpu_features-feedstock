@@ -1,6 +1,6 @@
 {% set name = "cpu_features" %}
-{% set version = "0.9.0" %}
-{% set sha256 = "bdb3484de8297c49b59955c3b22dba834401bc2df984ef5cfc17acbe69c5018e" %}
+{% set version = "0.10.0" %}
+{% set sha256 = "dc1be36d02b178e904aa91cce5c2701fe418d728f1c0a130a4196b66b087471a" %}
 
 package:
   name: {{ name|lower }}
@@ -17,6 +17,7 @@ build:
 requirements:
   build:
     - {{ compiler('c') }}
+    - {{ stdlib("c") }}
     - {{ compiler('cxx') }}
     - cmake
     - make
