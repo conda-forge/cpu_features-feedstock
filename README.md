@@ -15,14 +15,7 @@ Current build status
 ====================
 
 
-<table><tr>
-    <td>Travis</td>
-    <td>
-      <a href="https://app.travis-ci.com/conda-forge/cpu_features-feedstock">
-        <img alt="linux" src="https://img.shields.io/travis/com/conda-forge/cpu_features-feedstock/main.svg?label=Linux">
-      </a>
-    </td>
-  </tr>
+<table>
     
   <tr>
     <td>Azure</td>
@@ -76,7 +69,7 @@ Current release info
 
 | Name | Downloads | Version | Platforms |
 | --- | --- | --- | --- |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-cpu_features-green.svg)](https://anaconda.org/conda-forge/cpu_features) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/cpu_features.svg)](https://anaconda.org/conda-forge/cpu_features) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/cpu_features.svg)](https://anaconda.org/conda-forge/cpu_features) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/cpu_features.svg)](https://anaconda.org/conda-forge/cpu_features) |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-cpu__features-green.svg)](https://anaconda.org/conda-forge/cpu_features) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/cpu_features.svg)](https://anaconda.org/conda-forge/cpu_features) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/cpu_features.svg)](https://anaconda.org/conda-forge/cpu_features) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/cpu_features.svg)](https://anaconda.org/conda-forge/cpu_features) |
 
 Installing cpu_features
 =======================
