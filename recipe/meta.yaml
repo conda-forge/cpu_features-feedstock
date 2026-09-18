@@ -19,7 +19,7 @@ requirements:
     - {{ compiler('c') }}
     - {{ stdlib("c") }}
     - {{ compiler('cxx') }}
-    - cmake <4
+    - cmake
     - make
 # no host:
 # no   - googletest
